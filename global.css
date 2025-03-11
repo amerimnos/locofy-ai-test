@@ -7,18 +7,68 @@ body {
   /* Fonts */
   --font-inter: Inter;
 
+  /* font sizes */
+  --font-size-smi-1: 12.1px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+
   /* Colors */
   --color-aquamarine: rgba(112, 255, 187, 0.67);
+  --color-aquamarine-100: rgba(113, 255, 187, 0.57);
+  --color-aquamarine-200: rgba(112, 255, 187, 0.57);
+  --color-deepskyblue-100: #00c7ee;
+  --color-whitesmoke-100: #e8e9e9;
 
   /* Gaps */
+  --gap-15xs: -2px;
+  --gap-0: 0px;
+  --gap-12xs: 1px;
+  --gap-9xs: 4px;
+  --gap-8xs: 5px;
+  --gap-6xs: 7px;
   --gap-5xs: 8px;
+  --gap-4xs: 9px;
+  --gap-3xs: 10px;
+  --gap-xs: 12px;
+  --gap-sm: 14px;
+  --gap-xl: 20px;
+  --gap-5xl: 24px;
+  --gap-11xl: 30px;
+
+  /* Paddings */
+  --padding-9xs: 4px;
+  --padding-8xs: 5px;
+  --padding-7xs: 6px;
+  --padding-5xs: 8px;
+  --padding-xs: 12px;
+  --padding-sm: 14px;
+  --padding-base: 16px;
+  --padding-mid: 17px;
+  --padding-lg: 18px;
+  --padding-xl: 20px;
+  --padding-5xl: 24px;
+  --padding-9xl: 28px;
+  --padding-11xl: 30px;
+  --padding-17xl: 36px;
 
   /* Border radiuses */
+  --br-9xs: 4px;
+  --br-2xs: 11px;
+  --br-mid: 17px;
+  --br-8xl: 27px;
+  --br-25xl-5: 44.5px;
   --br-47xl-5: 66.5px;
 
   /* Figma Variables */
 
   /* Color Variables */
+  --accent: #00e377;
   --dark: #373737;
   --darker: #262626;
+  --light-grey-border: #e8eae9;
+  --light-text: #a6a6a6;
+  --white: #fff;
 }
