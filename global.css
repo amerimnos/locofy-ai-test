@@ -2,23 +2,3 @@ body {
   margin: 0;
   line-height: normal;
 }
-
-:root {
-  /* Fonts */
-  --font-inter: Inter;
-
-  /* Colors */
-  --color-aquamarine: rgba(112, 255, 187, 0.67);
-
-  /* Gaps */
-  --gap-5xs: 8px;
-
-  /* Border radiuses */
-  --br-47xl-5: 66.5px;
-
-  /* Figma Variables */
-
-  /* Color Variables */
-  --dark: #373737;
-  --darker: #262626;
-}
